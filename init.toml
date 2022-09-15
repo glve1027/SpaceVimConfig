@@ -82,4 +82,4 @@ repo = "itchyny/lightline.vim"
 repo = "sickill/vim-monokai"
 
 [[custom_plugins]]
-r
+repo = "easymotion/vim-easymotion"
